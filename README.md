@@ -13,10 +13,9 @@ This readme page will discuss how flowers contained within the Iris dataset are 
 This section will break down and dicuss each section of the code in further detail.
 
 ### 2.1 Import Libraries
- djdjdjdjd
- 
- <img width="395" alt="screen shot 2018-06-02 at 4 39 25 pm" src="https://user-images.githubusercontent.com/23239868/40880708-c47eaa7a-6683-11e8-8acf-474125c26235.png">
- 
+
+Import the following libs:
+
  ```python
 #imports
 from __future__ import absolute_import
@@ -28,8 +27,22 @@ import pandas as pd
 ```
 
 
-### 2.2 Download/Parse Dataset
+### 2.2 Dataset
 
+#### 2.2.1 Understanding the Iris Dataset
+
+There are many other resources online regarding this dataset that will explain in the features/labels, point of the experiment, etc in more detail but here is a quick breakdown. The training and testing dataset is arranged as follows: first 4 columns are features (Sepal Length, Sepal Width, Pedal Length, Pedal Width) and the 5th (last) column is the label column (Iris species). The table below illustrates this:
+
+
+| Sepal Length  | Sepal Width   | Pedal Length  | Pedal Width | Species|
+| ------------- |:-------------:| :-----:|:-------------:|-------------:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+#### 2.2.2 Download Dataset using pandas
+
+#### 2.2.3 Parse Dataset
 
 
 ### 2.3 Select Model Type
