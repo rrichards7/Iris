@@ -18,8 +18,13 @@ This section will break down and dicuss each section of the code in further deta
  <img width="395" alt="screen shot 2018-06-02 at 4 39 25 pm" src="https://user-images.githubusercontent.com/23239868/40880708-c47eaa7a-6683-11e8-8acf-474125c26235.png">
  
  ```python
-s = "Python syntax highlighting"
-print s
+#imports
+from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
+
+import tensorflow as tf
+import pandas as pd
 ```
 
 
