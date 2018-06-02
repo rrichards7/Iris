@@ -13,7 +13,9 @@ This readme page will discuss how flowers contained within the Iris dataset are 
 This section will break down and dicuss each section of the code in further detail.
 
 ### 2.1 Import Libraries
-
+ djdjdjdjd
+ 
+ <img width="395" alt="screen shot 2018-06-02 at 4 39 25 pm" src="https://user-images.githubusercontent.com/23239868/40880708-c47eaa7a-6683-11e8-8acf-474125c26235.png">
 
 
 ### 2.2 Download/Parse Dataset
