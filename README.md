@@ -31,7 +31,7 @@ import pandas as pd
 
 #### 2.2.1 Understanding the Iris Dataset
 
-There are many other resources online regarding this dataset that will explain in the features/labels, point of the experiment, etc in more detail but here is a quick breakdown. The training and testing dataset is arranged as follows: first 4 columns are features (Sepal Length, Sepal Width, Pedal Length, Pedal Width) and the 5th (last) column is the label column (Iris species). The table below illustrates this:
+There are many other resources online regarding this dataset that will explain in more depth the features/labels, point of the experiment, etc but here is a quick breakdown. The training and testing dataset is arranged as follows: first 4 columns are features (Sepal Length, Sepal Width, Pedal Length, Pedal Width) and the 5th (last) column is the label column (Iris species). The table below illustrates this:
 
 
 | Sepal Length  | Sepal Width   | Pedal Length  | Pedal Width | Species|
