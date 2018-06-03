@@ -36,9 +36,9 @@ There are many other resources online regarding this dataset that will explain i
 
 | Sepal Length  | Sepal Width   | Pedal Length  | Pedal Width | Species|
 | ------------- |:-------------:| :-----:|:-------------:|-------------:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| test     | test | test |
+| test      | test      |   test |
+| test | test      |    test |
 
 #### 2.2.2 Download Dataset using pandas
 
